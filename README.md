@@ -43,4 +43,4 @@ caso contrário.
 
 ## Exemplo
 
-
+![Image](https://raw.githubusercontent.com/Adeniltonarcanjo/MTND--Maquina-de-Turing-Nao-Deterministica-/main/imagem-%20Entradas%20e%20Sa%C3%ADdas.png?token=AQQ47FUQD3N44VKNG4HCOXLA7YFGG)
