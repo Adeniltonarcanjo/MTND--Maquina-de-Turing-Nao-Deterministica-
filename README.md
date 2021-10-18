@@ -1,1 +1,1 @@
-Todos as descrições e códigos estão no aqruivo MTND.ipynb 
+Todas as descrições e códigos estão no aqruivo MTND.ipynb 
